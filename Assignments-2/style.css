@@ -1,0 +1,88 @@
+/* reseting all css */
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conatiner{
+
+}
+
+.navbar1{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    padding-bottom: 10px;
+}
+
+
+.info1{
+    display: flex;
+    color: rgb(9, 9, 9);
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.phonelogo{
+    background: url(./call.png)center/cover;
+    width: 30px;
+    height: 30px;
+    background-color: none;
+    border: none;
+}
+
+.info p{
+    margin-top: 5px;
+}
+
+
+
+.info2{
+    display: flex;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.emailogo{
+    background: url(./email.png)center/cover;
+    width: 30px;
+    height: 30px;
+    background-color: none;
+    border: none;
+}
+
+
+
+.logo{
+    margin-top: 30px;
+    margin-left: 15%;
+}
+
+
+.websitelogo{
+    background: url(./logo.png)center/cover;
+    width: 120px;
+    height: 60px;
+    border: none;
+    border-radius: 50px;
+}
+
+.socialtags{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
